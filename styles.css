@@ -1,0 +1,17 @@
+/* Petit style reset : */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 1.7em;
+    color: grey;
+}
+
+p {
+    font-size: 1.5em;
+    color: red;
+    display: none;
+}
